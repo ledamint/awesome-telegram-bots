@@ -133,8 +133,8 @@ Do you know Telegram Bot with open sources which is not mentioned in this list? 
 
 ### Node.js
 
-+ [urban-bot-starter-typescript](https://github.com/urban-bot/urban-bot-starter-typescript) Quick start to use Urban Bot library with full typescript support
-+ [urban-bot-starter-javascript](https://github.com/urban-bot/urban-bot-starter-javascript) Quick start to use Urban Bot library
++ [urban-bot-starter-typescript](https://github.com/urban-bot/urban-bot-starter-typescript) - quick start to use Urban Bot library with full typescript support
++ [urban-bot-starter-javascript](https://github.com/urban-bot/urban-bot-starter-javascript) - quick start to use Urban Bot library
 
 ### PHP
 
